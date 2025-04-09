@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/taste_of_india/static/css/main.becf9b62.css",
+    "main.js": "/taste_of_india/static/js/main.5ecb450b.js",
+    "static/js/453.138c8245.chunk.js": "/taste_of_india/static/js/453.138c8245.chunk.js",
+    "static/media/sbbg.png": "/taste_of_india/static/media/sbbg.34ffa0e4d2539307847b.png",
+    "index.html": "/taste_of_india/index.html",
+    "main.becf9b62.css.map": "/taste_of_india/static/css/main.becf9b62.css.map",
+    "main.5ecb450b.js.map": "/taste_of_india/static/js/main.5ecb450b.js.map",
+    "453.138c8245.chunk.js.map": "/taste_of_india/static/js/453.138c8245.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.becf9b62.css",
+    "static/js/main.5ecb450b.js"
+  ]
+}
