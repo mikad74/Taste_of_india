@@ -1,5 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .App {
   text-align: center;
+  height: 100vh;
+  width: 100%;
+  font-size: 1.5rem;
+  background-image: url("media/sbbg.png");
+  font-family: Tahoma, Helvetica, sans-serif;
+  color: white;
 }
 
 .App-logo {
@@ -10,4 +21,10 @@
 .App-header {
   height: 3pt
   
+}
+
+.item-text {
+  font-weight: bold;
+  font-stretch: 70%;
+  height: 100%;
 }

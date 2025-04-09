@@ -19,7 +19,7 @@ function TodoItem({ task, deleteTask, toggleCompleted}: TodoItemArgs) {
        checked={task.completed}
        onChange={handleChange}
      />
-     <p>{task.text}</p>
+     <p className="item-text">{task.text}</p>
      <button onClick={() => deleteTask(task.id)}>
        X
      </button>
