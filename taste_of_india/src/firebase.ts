@@ -2,8 +2,10 @@
 import { initializeApp } from "firebase/app";
 import { getFirestore } from 'firebase/firestore'
 
+const api_key = process.env.FIREBASEAPI
+
 const firebaseConfig = {
-    apiKey: "redacted",
+    apiKey: api_key,
     authDomain: "taste-of-india-58e23.firebaseapp.com", 
     projectId: "taste-of-india-58e23", 
     storageBucket: "taste-of-india-58e23.firebasestorage.app", 
